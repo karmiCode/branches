@@ -1,4 +1,4 @@
 const firstName="Sara"
-const lastName="Cohen"
+const lastName="Levi"
 
 alert(`my name is: ${firstName} ${lastName}`)

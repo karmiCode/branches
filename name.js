@@ -1,4 +1,5 @@
 const firstName="Sara"
 const lastName="Levi"
+const city="Karmiel"
 
-alert(`my name is: ${firstName} ${lastName}`)
+alert(`${firstName} ${lastName} lives in ${city}`)

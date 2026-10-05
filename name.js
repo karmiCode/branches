@@ -1,4 +1,3 @@
-alert("hello")
 const firstName="Sara"
 const lastName="Levi"
 
